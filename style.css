@@ -1,11 +1,11 @@
-/* �S�̂̃X�^�C�� */
+/* 全体のスタイル */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
-/* �w�b�_�[�̃X�^�C�� */
+/* ヘッダーのスタイル */
 header {
   background-color: #333;
   color: #fff;
@@ -13,12 +13,12 @@ header {
   text-align: center;
 }
 
-/* ���C���R���e���c�̃X�^�C�� */
+/* メインコンテンツのスタイル */
 main {
   padding: 40px;
 }
 
-/* �|�[�g�t�H���I���X�g�̃X�^�C�� */
+/* ポートフォリオリストのスタイル */
 .portfolio-list {
   margin-bottom: 40px;
 }
@@ -32,12 +32,12 @@ main {
   margin-bottom: 10px;
 }
 
-/* �W���[�N�̃X�^�C�� */
+/* ジョークのスタイル */
 .joke {
   text-align: center;
 }
 
-/* �t�b�^�[�̃X�^�C�� */
+/* フッターのスタイル */
 footer {
   background-color: #333;
   color: #fff;
